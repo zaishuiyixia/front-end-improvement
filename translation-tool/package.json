@@ -1,0 +1,19 @@
+{
+  "name": "translation-tool",
+  "version": "0.0.1",
+  "description": "translation tool",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev src/main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^13.9.0"
+  }
+}
